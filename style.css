@@ -41,6 +41,9 @@ footer {
     border: 10px solid orange;
     padding: 50px;
     margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
